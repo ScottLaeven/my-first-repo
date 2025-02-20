@@ -1,2 +1,2 @@
 # my-first-repo
-https://www.zuyd.nl/
+Hier volgt een link naar de [website van zuyd] (https://www.zuyd.nl/)
